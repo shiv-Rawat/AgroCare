@@ -1,0 +1,2 @@
+# AgroCare
+Simplified Assignment Project
